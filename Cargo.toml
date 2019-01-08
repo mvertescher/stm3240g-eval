@@ -11,6 +11,7 @@ version = "0.1.0"
 [dependencies]
 
 [dependencies.stm32f4xx-hal]
+features = ["stm32f407"]
 version = "0.2.8"
 
 [dev-dependencies]
