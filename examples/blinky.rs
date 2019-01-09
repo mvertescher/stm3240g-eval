@@ -8,9 +8,7 @@
 extern crate panic_semihosting;
 
 use cortex_m_rt::entry;
-use stm3240g_eval::{
-    hal::{prelude::*, stm32, delay::Delay},
-};
+use stm3240g_eval::hal::{delay::Delay, prelude::*, stm32};
 
 #[entry]
 fn main() -> ! {
