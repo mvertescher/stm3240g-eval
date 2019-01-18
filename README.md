@@ -5,6 +5,11 @@
 
 Board Support Crate for the STM3240G-EVAL
 
+## Resources
+
+- [Landing Page](https://www.st.com/en/evaluation-tools/stm3240g-eval.html)
+- [User Manual](https://www.st.com/content/ccc/resource/technical/document/user_manual/25/21/69/1d/13/c5/4e/c9/DM00036746.pdf/files/DM00036746.pdf/jcr:content/translations/en.DM00036746.pdf)
+
 ## License
 
 Licensed under either of
