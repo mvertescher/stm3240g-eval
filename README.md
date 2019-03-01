@@ -5,6 +5,12 @@
 
 Board Support Crate for the `STM3240G-EVAL`.
 
+## Features
+
+The following features are currently supported for the `STM3240G-EVAL`:
+
+- 4 colored LEDs
+
 ## Resources
 
 - [Landing Page](https://www.st.com/en/evaluation-tools/stm3240g-eval.html)
