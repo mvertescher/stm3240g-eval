@@ -21,4 +21,5 @@ macro_rules! serial {
     }};
 }
 
+pub mod button;
 pub mod led;
